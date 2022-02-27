@@ -170,8 +170,8 @@ class _HomePageState extends State<HomePage> {
                               borderRadius: BorderRadius.circular(35),
                             ),
                             child: card_container(
-                              img1: "https://pbs.twimg.com/profile_images/1417834595899232256/YzltM_gk_400x400.png",
-                              img2: "https://pbs.twimg.com/profile_images/755087531717201920/fUmSHtYR_400x400.jpg",
+                              img1: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK5jxIDsiH6_iVI0z3-j97Nd82rbcr5GQSrQ&usqp=CAU",
+                              img2: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEr-31XnyR-NqVLXKNhmG8o-v4bbn4vfoPQI46RYJgVR6jTeiiCC8LwOAJiRpnQmMhFTw&usqp=CAU",
                               card_name1: "Visa Card",
                               card_name2: "Master Card",
                               card_d1: "12/3",
